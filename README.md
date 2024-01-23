@@ -1,1 +1,1 @@
-# lungChart
+# Pneumonia Detection with VGG16
